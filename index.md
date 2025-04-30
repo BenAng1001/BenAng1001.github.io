@@ -11,7 +11,7 @@ Lab 1 was where we all started out and began to learn how to use github which wo
 
 * Lab 7, part 1
 
-For I was working with Andrew. My favorite part of this lab was working on parking.cc. It was nice to be working with Andrew because he made the lab feel fun and exciting. We both worked on it and if I ever ran into a problem it was easy for Andrew to catch it and lend me a hand. As mentioned, parking.cc was a fun challenge for me because although I can not code that well or have the experience that some guys in the classroom had, it was still a good lab for me to learn. Specifically I enjoyed writing the if statements about the street names followed up with the hours that you can or can't park there. What I learned from this lab was how to better make if statements that can help us express what we are trying to commit to github.
+For lab 7 I was working with Andrew. My favorite part of this lab was working on parking.cc. It was nice to be working with Andrew because he made the lab feel fun and exciting. We both worked on it and if I ever ran into a problem it was easy for Andrew to catch it and lend me a hand. As mentioned, parking.cc was a fun challenge for me because although I can not code that well or have the experience that some guys in the classroom had, it was still a good lab for me to learn. Specifically I enjoyed writing the if statements about the street names followed up with the hours that you can or can't park there. What I learned from this lab was how to better make if statements that can help us express what we are trying to commit to github.
 
 * Lab 10
 
