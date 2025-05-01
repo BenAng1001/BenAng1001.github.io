@@ -1,7 +1,7 @@
 
 # Benjamin Anguiano's Portfolio
 
-I am a computer engineering major at CSUF.
+Hello my name is Benjamin Anguiano and I am a computer engineering major at CSUF.
 
 ## Favorite CPSC 120L Labs
 
